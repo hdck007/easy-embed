@@ -7,7 +7,3 @@
   overflow-x: hidden; /* or any other value */
   overflow-y: auto; /* or any other value */
 }
-
-body {
-  background: red;
-}
